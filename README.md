@@ -1,8 +1,8 @@
-# la-chromium
+# Chromium-transplantation-based-on-LoongArch
 
 ## 项目名称
 
-基于LoongArch架构的开源浏览器移植及定制优化
+基于麒麟操作系统的LoongArch架构开源浏览器移植及定制优化
 
 ## 项目描述
 
