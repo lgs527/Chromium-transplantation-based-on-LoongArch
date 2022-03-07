@@ -22,8 +22,11 @@
 
 ## 项目导师
 
-* 陈志开: chenzhikai@kylinos.cn
-* 刘贵山: liuguishan@kylinos.cn
+* 陈志开: 
+*    email：chenzhikai@kylinos.cn
+* 刘贵山: 
+*    github ID：lgs527
+*    email：liuguishan@kylinos.cn
 
 ## 难度
 
